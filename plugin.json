@@ -1,0 +1,13 @@
+{
+    "ID":"f03f11fc-1da9-47e8-aadd-664ca60fe293",
+    "ActionKeyword":"*",
+    "Name":"VSCode recent workspaces",
+    "Description":"Open recent workspaces from vscode",
+    "Author":"Charles",
+    "Version":"1.0",
+    "Language":"executable",
+    "Website":"https://github.com/cfe84/wox-code-recent",
+    "IcoPath":"app.png",
+    "ExecuteFileName":"run.bat",
+    "Disabled": false
+}
